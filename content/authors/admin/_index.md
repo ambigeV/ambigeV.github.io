@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dustin Wei
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dustin Wei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dustin
+last_name: Wei
 
 # Status emoji
 status:
