@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-This fucking site does not work well.
+Dustin Wei is a Ph.D. candidate in College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, working jointly with A*STAR SIMTech and the Centre for Frontier AI Research (CFAR). His research lies at the intersection of evolutionary computation, Bayesian optimization, and generative modeling, with a focus on multi-objective and multi-task optimization. He has published as first author in top-tier venues including IEEE Transactions on Evolutionary Computation (TEC), and has received multiple international optimization competition awards at GECCO, WCCI, and CEC. His current work explores scalable generative frameworks for black-box optimization, with diverse applications in automated design and AI-driven discovery.
