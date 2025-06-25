@@ -3,7 +3,7 @@
 title: Dustin Wei
 
 # Name pronunciation (optional)
-name_pronunciation: Dustin Wei
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Dustin
@@ -25,26 +25,27 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Nanyang Technological University
-    url: https://openai.com/
+    url: https://www.ntu.edu.sg
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# - icon: brands/x
+# url
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ambigeV
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tingyang-wei-970314/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=OZBOfusAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6848-031X
 
 interests:
   - Artificial Intelligence
@@ -57,7 +58,7 @@ education:
     date_start: 2022-09-01
     date_end: 2026-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yew-Soon Ong](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Few-shot Multiobjective Optimization_. Supervised by [Prof Yew-Soon Ong](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -72,10 +73,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science and Technology
     institution: South China University of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-10-01
+    date_end: 2019-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.73/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -118,7 +119,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Optimization
         description: ''
         percent: 40
         icon: circle-stack
@@ -141,11 +142,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
