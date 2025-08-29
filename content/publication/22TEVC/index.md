@@ -1,19 +1,21 @@
 ---
-title: 'An Energy-Efficient Partition-Based Framework With Continuous Ant Colony Optimization for Target Tracking in Mobile Sensor Networks'
+title: 'A Review on Evolutionary Multitask Optimization: Trends and Challenges'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Shibin Wang
   - Jinghui Zhong
+  - Dong Liu
   - Jun Zhang
 
 # Author notes (optional)
 author_notes: []
 
-date: '2019-09-30'
-doi: '10.1109/TETCI.2019.2940978'
+date: '2021-12-30'
+doi: '10.1109/TEVC.2021.3139437'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,12 +27,15 @@ publication_types:
  - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'
+publication: '*IEEE Transactions on Evolutionary Computation*'
 publication_short: ''
+
+abstract: Evolutionary algorithms (EAs) possess strong problem-solving abilities and have been applied in a wide range of applications. However, they still suffer from a high computational burden and poor generalization ability. To overcome the limitations, numerous studies consider conducting knowledge extraction across distinct optimization task domains. Among these research strands, one representative tributary is evolutionary multitask optimization (EMTO) that aims to resolve multiple optimization tasks simultaneously. The underlying attribute of implicit parallelism for EAs can well incorporate with the framework of EMTO, giving rise to the ascending EMTO studies. This review is intended to present a detailed exposition on the research in the EMTO area. We reveal the core components for designing the EMTO algorithms. Subsequently, we organize the works lying in the fusions between EMTO and traditional EAs. By analyzing the associations for diverse strategies in different branches of EMTO, this review uncovers the research trends and the potentially important directions, with additional interesting real-world applications mentioned.
+tags: [TEVC 2022]
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,19 +1,20 @@
 ---
-title: 'An Energy-Efficient Partition-Based Framework With Continuous Ant Colony Optimization for Target Tracking in Mobile Sensor Networks'
-
+title: 'Bayesian Forward-Inverse Transfer for Multiobjective Optimization'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jinghui Zhong
-  - Jun Zhang
+  - Jiao Liu
+  - Abhishek Gupta
+  - Puay Siew Tan
+  - Yew-Soon Ong
 
 # Author notes (optional)
 author_notes: []
 
-date: '2019-09-30'
-doi: '10.1109/TETCI.2019.2940978'
+date: '2024-09-07'
+doi: '10.1007/978-3-031-70085-9_9'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -22,15 +23,19 @@ doi: '10.1109/TETCI.2019.2940978'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types:
- - article-journal
+ - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'
+publication: '*Parallel Problem Solving from Nature*'
 publication_short: ''
+
+abstract: We present an evolutionary optimizer incorporating knowledge transfer through forward and inverse surrogate models for solving multiobjective problems, within a stringent computational budget. Forward knowledge transfer is employed to fully exploit solution-evaluation datasets from related tasks by building Bayesian forward multitask surrogate models that map points from decision to objective space. Inverse knowledge transfer via Bayesian inverse multitask models makes possible the creation of high-quality solution populations in decision space by mapping back from preferred points in objective space. In contrast to prior work, the proposed method can improve the overall convergence performance to multiple Pareto sets by fully exploiting information available for diverse multiobjective problems. Empirical studies conducted on benchmark and real-world multitask multiobjective optimization problems demonstrate the faster convergence rate and enhanced inverse modeling accuracy of our algorithm compared to state-of-the-art algorithms.
+
+tags: [PPSN 2024]
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
