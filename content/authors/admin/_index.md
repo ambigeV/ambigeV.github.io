@@ -1,17 +1,15 @@
 ---
 # Display name
-title: Dustin Wei
+title: Tingyang Wei
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Dustin
+first_name: Tingyang
 last_name: Wei
 
 # Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,7 +31,7 @@ organizations:
 # url
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'weitingyangdustin@gmail.com'
     label: E-mail Me
   
   - icon: brands/instagram
@@ -48,21 +46,23 @@ profiles:
     url: https://orcid.org/0000-0001-6848-031X
 
 interests:
-  - Artificial Intelligence
-  - Black-box Optimization
+  - Approximate Inference
+  - Black-Box Optimization
   - Bayesian Optimization
+  - Multiobjective Optimization
+  - Generative Modelling
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Ph.D. Artificial Intelligence
     institution: Nanyang Technological University
     date_start: 2022-09-01
-    date_end: 2026-12-31
+    date_end: 2026-08-07
     summary: |
       Thesis on _Few-shot Multiobjective Optimization_. Supervised by [Prof Yew-Soon Ong](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MSc Artificial Intelligence
     institution: South China University of Technology
     date_start: 2019-10-01
     date_end: 2022-06-30
@@ -71,7 +71,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Computer Science and Technology
+  - area: BSc Computer Science
     institution: South China University of Technology
     date_start: 2015-10-01
     date_end: 2019-06-30
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Dustin Wei is a Ph.D. candidate in College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, working jointly with A*STAR SIMTech and the Centre for Frontier AI Research (CFAR). His research lies at the intersection of evolutionary computation, Bayesian optimization, and generative modeling, with a focus on multi-objective and multi-task optimization. He has published as first author in top-tier venues including IEEE Transactions on Evolutionary Computation (TEC), and has received multiple international optimization competition awards at GECCO, WCCI, and CEC. His current work explores scalable generative frameworks for black-box optimization, with diverse applications in automated design and AI-driven discovery.
+Tingyang Wei is a Ph.D. candidate with the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, working jointly with A*STAR SIMTech and the Centre for Frontier AI Research (CFAR). His research lies at the intersection of black-box optimization, Bayesian optimization, and generative modeling, with a focus on multiobjective and multitask optimization. His current work explores scalable generative frameworks for black-box optimization, with diverse applications in automated design and AI-driven discovery.
