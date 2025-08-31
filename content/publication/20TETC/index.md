@@ -29,6 +29,7 @@ publication_types:
 publication: '*IEEE Transactions on Emerging Topics in Computing*'
 publication_short: ''
 
+tags: [Evolutionary]
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,6 +38,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
+
 
 url_pdf: ''
 url_code: ''

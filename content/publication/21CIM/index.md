@@ -29,7 +29,7 @@ publication_short: ''
 
 abstract: Evolutionary multitasking optimization (EMTO) is an emerging paradigm for solving several problems simultaneously. Due to the flexible framework, EMTO has been naturally applied to multi-objective optimization to exploit synergy among distinct multi-objective problem domains. However, most studies barely take into account the scenario where some problems cannot converge under restrictive computational budgets with the traditional EMTO framework. To dynamically allocate computational resources for multi-objective EMTO problems, this article proposes a generalized resource allocation (GRA) framework by concerning both theoretical grounds of conventional resource allocation and the characteristics of multi-objective optimization. In the proposed framework, a normalized attainment function is designed for better quantifying convergence status, a multi-step nonlinear regression is proposed to serve as a stable performance estimator, and the algorithmic procedure of conventional resource allocation is refined for flexibly adjusting resource allocation intensity and including knowledge transfer information. It has been verified that the GRA framework can enhance the overall performance of the multi-objective EMTO algorithm in solving benchmark problems, complex problems, many-task problems, and a real-world application problem. Notably, the proposed GRA framework served as a crucial component for the winner algorithm in the Competition on Evolutionary Multi-Task Optimization (Multi-objective Optimization Track) in IEEE 2020 World Congress on Computational Intelligence.
 
-tags: [CIM 2021]
+tags: [CIM 2021, Multiobjective, Multitask, Evolutionary]
 
 
 # Display this page in the Featured widget?

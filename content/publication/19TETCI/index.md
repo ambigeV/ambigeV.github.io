@@ -28,6 +28,7 @@ publication_types:
 publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'
 publication_short: ''
 
+tags: [Evolutionary]
 
 # Display this page in the Featured widget?
 featured: false

@@ -32,7 +32,7 @@ publication_short: ''
 
 abstract: Multi-task optimization is typically characterized by a fixed and finite set of tasks. The present paper relaxes this condition by considering a non-fixed and potentially infinite set of optimization tasks defined in a parameterized, continuous and bounded task space. We refer to this unique problem setting as parametric multi-task optimization (PMTO). Assuming the bounds of the task parameters to be (θl, θu), a novel (θl, θu)-PMTO algorithm is crafted to operate in two complementary modes. In an offline optimization mode, a joint search over solution and task spaces is carried out with the creation of two approximation models (1) for mapping points in a unified solution space to the objective spaces of all tasks, which provably accelerates convergence by acting as a conduit for inter-task knowledge transfers, and (2) for probabilistically mapping tasks to their corresponding solutions, which facilitates evolutionary exploration of under-explored regions of the task space. In the online mode, the derived models enable direct optimization of any task within the bounds without the need to search from scratch. This outcome is validated on both synthetic test problems and practical case studies, with the significant real-world applicability of PMTO shown towards fast reconfiguration of robot controllers under changing task conditions. The potential of PMTO to vastly speedup the search for solutions to minimax optimization problems is also demonstrated through an example in robust engineering design.
 
-tags: [TEVC 2025]
+tags: [TEVC 2025, Bayesian, Multitask]
 
 
 # Display this page in the Featured widget?
