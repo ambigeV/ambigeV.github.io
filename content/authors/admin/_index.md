@@ -30,12 +30,6 @@ organizations:
 # - icon: brands/x
 # url
 profiles:
-  - icon: at-symbol
-    url: 'weitingyangdustin@gmail.com'
-    label: E-mail Me
-  
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ambigeV
   - icon: brands/linkedin
