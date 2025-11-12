@@ -1,5 +1,5 @@
 ---
-title: 'XXX'
+title: 'Parametric Expensive Multi-Objective Optimization via Generative Solution Modeling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: '2025-08-24'
+date: '2025-11-11'
 doi: 'TBD'
 
 # Schedule page publish date (NOT publication's date).
@@ -28,16 +28,15 @@ publication_types:
  - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2026 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*'
+publication: ''
 publication_short: ''
 
-abstract: TBD
-
-tags: [AAAI 2026, Bayesian, Multiobjective, Multitask]
+abstract: Many real-world applications require solving families of expensive multi-objective optimization problems (EMOPs) under varying operational conditions. This gives rise to parametric expensive multi-objective optimization problems (P-EMOPs) where each task parameter defines a distinct optimization instance. Current multi-objective Bayesian optimization methods have been widely used for finding finite sets of Pareto optimal solutions for individual tasks. However, P-EMOPs present a fundamental challenge--the continuous task parameter space can contain infinite distinct problems, each requiring separate expensive evaluations. This demands learning an inverse model that can directly predict optimized solutions for any task-preference query without expensive re-evaluation. This paper introduces the first parametric multi-objective Bayesian optimizer that learns this inverse model by alternating between (1) acquisition-driven search leveraging inter-task synergies and (2) generative solution sampling via conditional generative models. This approach enables efficient optimization across related tasks and finally achieves direct solution prediction for unseen parameterized EMOPs without additional expensive evaluations. We theoretically justify the faster convergence by leveraging inter-task synergies through task-aware Gaussian processes. Meanwhile, empirical studies in synthetic and real-world benchmarks further verify the effectiveness of our alternating framework.
+tags: [Ongoing, Bayesian, Multiobjective, Multitask]
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
