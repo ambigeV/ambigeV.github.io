@@ -33,7 +33,7 @@ tags: [CIM 2021, Multiobjective, Multitask, Evolutionary]
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,20 +1,22 @@
 ---
-title: 'Music Minion Guided Evolutionary Multitasking: A Case Study in Piano Fingering Estimation'
+title: 'Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - admin  
+  - Haofeng Wu
   - Ananda Phan Iman
-  - admin
-  - Chang Wook Ahn
+  - Zhao Wei
+  - Jiao Liu
   - Yew-Soon Ong
 
 # Author notes (optional)
 author_notes: []
 
-date: '2025-09-20'
-# doi: 'TBD'
+date: '2026-03-16'
+doi: '10.1109/CEC65147.2025.11043126'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -23,18 +25,19 @@ date: '2025-09-20'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types:
- - article-journal
+ - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Cybernetics*'
+publication: '*2026 IEEE World Congress on Computational Intelligence (WCCI)*'
 publication_short: ''
 
-abstract: Piano fingering estimation is an important task in piano performance and pedagogy, aiming to assign effective fingering sequences that support fluent and expressive performance. Musical pieces often share recurring motifs and structural patterns, creating opportunities to solve multiple fingering estimation tasks jointly through shared information. In this work, we introduce an evolutionary multitask optimization framework to address multiple fingering estimation tasks simultaneously by enabling knowledge transfer across them. To further enhance the multitask search process, we incorporate auxiliary optimization tasks derived from classical technical exercises into the multitask framework, which help guide each main task toward promising regions of its respective solution space. These auxiliary tasks are assigned to each main task based on their mutual musical relevance. To support future research, we also present the Piano Scale Dataset, a collection of annotated exercises covering a comprehensive range of musical keys. Experimental results show that the proposed framework improves convergence and fingering accuracy compared to baseline methods, highlighting the potential of multitask optimization for music-related estimation problems.
-tags: [TCYB 2026, Evolutionary, Multitask]
+abstract: >-
+  Applying knowledge transfer across multiple optimization tasks, multitask optimization (MTO) emerges as a promising approach to solving synergistic optimization tasks simultaneously. However, the development of effective knowledge transfer mechanisms in MTO fundamentally relies on aligning elite solution distributions across tasks. This dependency creates a critical bottleneck in few-shot optimization regimes, as restricted evaluation budgets impede the identification of elite solution distributions required for beneficial transfer. This challenge is exacerbated in multiobjective multitask problems, where each optimizer must approximate a continuous Pareto manifold rather than a single optimal point. This paper introduces Iterative Sequential Transfer (IST) to circumvent this bottleneck. We model MTO as a sequence of sequential transfer optimization problems, concentrating evaluations on a single target per iteration. We propose a likelihood-informed task prioritization mechanism to maximize transfer utility by identifying the task most likely ready for knowledge integration. Empirical results on benchmark and real-world problems verify the effectiveness of the proposed method under tight budgets.
+tags: [WCCI 2026, Multitask, Multiobjective, Bayesian]
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
