@@ -25,7 +25,7 @@ publication_types:
  - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2026 IEEE Congress on Evolutionary Computation (CEC)*'
+publication: '*2026 IEEE World Congress on Computational Intelligence (WCCI)*'
 publication_short: ''
 
 abstract: >-
@@ -43,7 +43,7 @@ abstract: >-
   associated with changes in representation-induced landscape characteristics,
   rather than algorithmic factors alone, highlighting representation design as a
   key factor in effective knowledge transfer in multitasking optimization.
-tags: [CEC 2026, Multitask, Evolutionary]
+tags: [WCCI 2026, Multitask, Evolutionary]
 
 
 # Display this page in the Featured widget?
