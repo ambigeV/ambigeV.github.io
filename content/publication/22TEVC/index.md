@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: '2021-12-30'
+date: '2022-01-30'
 doi: '10.1109/TEVC.2021.3139437'
 
 # Schedule page publish date (NOT publication's date).
