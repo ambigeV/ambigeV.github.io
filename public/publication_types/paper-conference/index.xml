@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Tingyang Wei&#39;s Personal Website</title>
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Amortized Multi-Objective Optimization Across Tasks with Generative Solution Modeling</title>
+      <link>http://localhost:1313/publication/26ijcai/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Optimizer-Landscape Interaction via Representation in Subset Selection Multitasking: Evidence from Piano Fingering</title>
+      <link>http://localhost:1313/publication/26wcci-b/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26wcci-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer</title>
+      <link>http://localhost:1313/publication/26wcci-a/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26wcci-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric Expensive Multi-Objective Optimization via Generative Solution Modeling</title>
+      <link>http://localhost:1313/publication/26aaai/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Expensive Multi-Objective Optimizer: From ParEGO to ExTrEMO</title>
+      <link>http://localhost:1313/publication/25cec/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/25cec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Forward-Inverse Transfer for Multiobjective Optimization</title>
+      <link>http://localhost:1313/publication/24ppsn/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/24ppsn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

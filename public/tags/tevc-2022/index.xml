@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TEVC 2022 | Tingyang Wei&#39;s Personal Website</title>
+    <link>http://localhost:1313/tags/tevc-2022/</link>
+      <atom:link href="http://localhost:1313/tags/tevc-2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>TEVC 2022</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <title>TEVC 2022</title>
+      <link>http://localhost:1313/tags/tevc-2022/</link>
+    </image>
+    
+    <item>
+      <title>A Review on Evolutionary Multitask Optimization: Trends and Challenges</title>
+      <link>http://localhost:1313/publication/22tevc/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/22tevc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolutionary | Tingyang Wei&#39;s Personal Website</title>
+    <link>http://localhost:1313/tags/evolutionary/</link>
+      <atom:link href="http://localhost:1313/tags/evolutionary/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolutionary</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <title>Evolutionary</title>
+      <link>http://localhost:1313/tags/evolutionary/</link>
+    </image>
+    
+    <item>
+      <title>Diagnosing Optimizer-Landscape Interaction via Representation in Subset Selection Multitasking: Evidence from Piano Fingering</title>
+      <link>http://localhost:1313/publication/26wcci-b/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26wcci-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Minion Guided Evolutionary Multitasking: A Case Study in Piano Fingering Estimation</title>
+      <link>http://localhost:1313/publication/26tsmc/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26tsmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Evolutionary Multitask Optimization: Trends and Challenges</title>
+      <link>http://localhost:1313/publication/22tevc/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/22tevc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization</title>
+      <link>http://localhost:1313/publication/21cim/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/21cim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification on High Dimension and Low Sample Size Data Using Genetic Programming</title>
+      <link>http://localhost:1313/publication/20tetc/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/20tetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Energy-Efficient Partition-Based Framework With Continuous Ant Colony Optimization for Target Tracking in Mobile Sensor Networks</title>
+      <link>http://localhost:1313/publication/19tetci/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/19tetci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

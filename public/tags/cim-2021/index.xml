@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIM 2021 | Tingyang Wei&#39;s Personal Website</title>
+    <link>http://localhost:1313/tags/cim-2021/</link>
+      <atom:link href="http://localhost:1313/tags/cim-2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>CIM 2021</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <title>CIM 2021</title>
+      <link>http://localhost:1313/tags/cim-2021/</link>
+    </image>
+    
+    <item>
+      <title>Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization</title>
+      <link>http://localhost:1313/publication/21cim/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/21cim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

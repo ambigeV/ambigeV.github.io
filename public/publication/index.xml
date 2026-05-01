@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tingyang Wei&#39;s Personal Website</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Amortized Multi-Objective Optimization Across Tasks with Generative Solution Modeling</title>
+      <link>http://localhost:1313/publication/26ijcai/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Optimizer-Landscape Interaction via Representation in Subset Selection Multitasking: Evidence from Piano Fingering</title>
+      <link>http://localhost:1313/publication/26wcci-b/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26wcci-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer</title>
+      <link>http://localhost:1313/publication/26wcci-a/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26wcci-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric Expensive Multi-Objective Optimization via Generative Solution Modeling</title>
+      <link>http://localhost:1313/publication/26aaai/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Minion Guided Evolutionary Multitasking: A Case Study in Piano Fingering Estimation</title>
+      <link>http://localhost:1313/publication/26tsmc/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/26tsmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(θl,θu)-Parametric Multi-Task Optimization: Joint Search in Solution and Infinite Task Spaces</title>
+      <link>http://localhost:1313/publication/25tevc/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/25tevc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of Expensive Multi-Objective Optimizer: From ParEGO to ExTrEMO</title>
+      <link>http://localhost:1313/publication/25cec/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/25cec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Forward-Inverse Transfer for Multiobjective Optimization</title>
+      <link>http://localhost:1313/publication/24ppsn/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/24ppsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Evolutionary Multitask Optimization: Trends and Challenges</title>
+      <link>http://localhost:1313/publication/22tevc/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/22tevc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Generalized Resource Allocation on Evolutionary Multitasking for Multi-Objective Optimization</title>
+      <link>http://localhost:1313/publication/21cim/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/21cim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification on High Dimension and Low Sample Size Data Using Genetic Programming</title>
+      <link>http://localhost:1313/publication/20tetc/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/20tetc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Energy-Efficient Partition-Based Framework With Continuous Ant Colony Optimization for Target Tracking in Mobile Sensor Networks</title>
+      <link>http://localhost:1313/publication/19tetci/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/19tetci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
