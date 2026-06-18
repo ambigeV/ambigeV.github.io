@@ -38,4 +38,17 @@ sections:
       columns: '2'
       spacing:
         padding: [45px, 0, 0, 0]
+
+  - block: collection
+    id: talks
+    content:
+      title: "Invited Talks"
+      filters:
+        folders:
+          - event
+    design:
+      view: compact
+      columns: '1'
+      spacing:
+        padding: [45px, 0, 0, 0]
 ---
