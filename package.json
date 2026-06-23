@@ -1,0 +1,17 @@
+{
+  "name": "ambigev-site",
+  "description": "Personal academic site built with Hugo Blox (blox-tailwind).",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "pagefind": "^1.1.1"
+  },
+  "scripts": {
+    "build": "hugo --gc --minify"
+  }
+}

@@ -1,0 +1,7 @@
+# Node
+node_modules/
+
+# Hugo build artifacts
+/resources/
+.hugo_build.lock
+hugo_stats.json
