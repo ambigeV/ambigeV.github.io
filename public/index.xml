@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Unifying Multitask Optimization and Sequential Transfer: Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer</title>
+      <link>http://localhost:1313/event/talk-2/</link>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/talk-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parametric Multi-Task Optimization: From Finite Tasks to Infinite Tasks</title>
       <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
@@ -347,7 +355,7 @@
 
 
 
-&lt;div id=&#34;chart-724698513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-429536781&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -365,7 +373,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-724698513&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-429536781&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

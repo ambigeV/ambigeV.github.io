@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Tingyang Wei&#39;s Personal Website</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://127.0.0.1:1314/event/</link>
+      <atom:link href="http://127.0.0.1:1314/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 14:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7001858c378824d.png</url>
+      <url>http://127.0.0.1:1314/media/icon_hu_7001858c378824d.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/event/</link>
+      <link>http://127.0.0.1:1314/event/</link>
     </image>
     
     <item>
+      <title>Your Second Talk Title Goes Here</title>
+      <link>http://127.0.0.1:1314/event/talk-2/</link>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1314/event/talk-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parametric Multi-Task Optimization: From Finite Tasks to Infinite Tasks</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>http://127.0.0.1:1314/event/example/</link>
       <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>http://127.0.0.1:1314/event/example/</guid>
       <description></description>
     </item>
     

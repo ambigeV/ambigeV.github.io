@@ -4,6 +4,15 @@
     max-width: 75% !important;
   }
 
+  /* Each talk card is an <a> (inline by default, so its margin is ignored).
+     Make it block-level and add a gap between consecutive cards. */
+  #talks .container a {
+    display: block;
+  }
+  #talks .container a + a {
+    margin-top: 2rem !important;
+  }
+
   /* Give the figure more space relative to the title/intro/date (desktop) */
   @media (min-width: 768px) {
     /* Image column: width split (change 35% to taste) + full card height.
@@ -19,7 +28,7 @@
       position: absolute;
       inset: 0;
       width: 100%;
-      height: 100%;
+      height: 100%; 
       object-fit: contain;
     }
   }
