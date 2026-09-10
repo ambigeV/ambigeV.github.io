@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Amortized Multi-Objective Optimization Across Tasks with Generative Solution Modeling</title>
+      <link>http://localhost:1313/event/talk-3/</link>
+      <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/talk-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unifying Multitask Optimization and Sequential Transfer: Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer</title>
       <link>http://localhost:1313/event/talk-2/</link>
       <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
@@ -355,7 +363,7 @@
 
 
 
-&lt;div id=&#34;chart-429536781&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-596728143&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -373,7 +381,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-429536781&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-596728143&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
