@@ -29,6 +29,7 @@ sections:
     id: papers
     content:
       title: "Featured Research"
+      count: 6
       filters:
         folders:
           - publication
