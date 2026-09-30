@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Tingyang Wei&#39;s Personal Website</title>
+    <link>https://ambigeV.github.io/event/</link>
+      <atom:link href="https://ambigeV.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ambigeV.github.io/media/icon_hu_7001858c378824d.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ambigeV.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Few-Shot Multiobjective Multitask Optimization</title>
+      <link>https://ambigeV.github.io/event/talk-4/</link>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
+      <guid>https://ambigeV.github.io/event/talk-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortized Multi-Objective Optimization Across Tasks with Generative Solution Modeling</title>
+      <link>https://ambigeV.github.io/event/talk-3/</link>
+      <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
+      <guid>https://ambigeV.github.io/event/talk-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying Multitask Optimization and Sequential Transfer: Solving Few-Shot Multiobjective Multitask Optimization via Iterative Sequential Transfer</title>
+      <link>https://ambigeV.github.io/event/talk-2/</link>
+      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
+      <guid>https://ambigeV.github.io/event/talk-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric Multi-Task Optimization: From Finite Tasks to Infinite Tasks</title>
+      <link>https://ambigeV.github.io/event/example/</link>
+      <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
+      <guid>https://ambigeV.github.io/event/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

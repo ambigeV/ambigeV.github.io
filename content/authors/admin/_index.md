@@ -18,10 +18,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: AI Engineer | Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: TikTok
+    url: https://www.tiktok.com
   - name: Nanyang Technological University
     url: https://www.ntu.edu.sg
 
